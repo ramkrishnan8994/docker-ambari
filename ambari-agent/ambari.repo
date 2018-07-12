@@ -1,7 +1,7 @@
-#VERSION_NUMBER=2.4.0.0-696
+#VERSION_NUMBER=2.6.2.0-155
 
-[AMBARI.2.4.0.0-696]
-name=Ambari 2.4.0.0-696
+[AMBARI.2.6.2.0-155]
+name=Ambari 2.6.2.0-155
 baseurl=file:///ambari/centos6/2.6.2.0-155
 gpgcheck=1
 gpgkey=file:///ambari/centos6/2.6.2.0-155/RPM-GPG-KEY/RPM-GPG-KEY-Jenkins
